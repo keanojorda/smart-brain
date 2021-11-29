@@ -1,3 +1,14 @@
 # smart-brain
+
+A web application that analyzes an image and detects the person within the image.
+
+Live Demo:
 https://keanojorda.github.io/smart-brain/
-A web application created using React that analyzes an image and detects a person.
+
+Technologies used:
+- ReactJS
+- Clarifai API
+- Node
+- Express
+- PostgresSQL
+
